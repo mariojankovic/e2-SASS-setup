@@ -1,0 +1,42 @@
+// COLORS
+  $white: #FFF;
+  $black: #000;
+
+  $brand: #4856AF;
+  $brand-alt: #8FC371;
+
+  $success: #A7C520;
+  $error: #F3332B;
+  $warning: #FFB03B;
+
+  $facebook: #3B5997;
+  $twitter: #4099FF;
+
+// MEDIA
+  $max-width: 1100px;
+
+  // Desktop browsers
+    $desktop-wide: 1680px;
+    $desktop: 1280px;
+
+  // Tablet browsers
+    $tablet-wide: 960px;
+    $tablet: 768px;
+
+  // Mobile browsers
+    $mobile-wide: 670px;
+    $mobile: 480px;
+
+// TYPE
+  $font-size: 16px;
+  $line-height: 1.5;
+  $body-font: 'Avenir', Arial, sans-serif;
+  $title-font: Georgia, serif;
+
+  $thin: 100;
+  $light: 300;
+  $regular: 400;
+  $mediumbold: 500;
+  $semibold: 600;
+  $bold: 700;
+  $ultra: 900;
